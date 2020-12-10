@@ -1,0 +1,13 @@
+.logo{
+    width: 200;
+    height:200;
+    border-style: ridge;
+    border-color: crimson;
+    border-width:medium;
+}
+body{
+    text-align:center;
+}
+h1 :hover{
+    color:aqua;
+}
